@@ -1,0 +1,5002 @@
+[
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra. Incluía accesorios extra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Un Tablet promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Un Auriculares promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Un Altavoces promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartphone, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Un Teclado promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Teclado no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana. Incluía accesorios extra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartwatch, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Un Tablet promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartphone, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Un Teclado promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada. Incluía accesorios extra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Un Auriculares promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Teclado no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Tablet no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Un Laptop promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartwatch, la calidad deja mucho que desear. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Un Auriculares promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Un Altavoces promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Tablet no destaca en nada. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartphone, la calidad deja mucho que desear. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Un Impresora promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Un Impresora promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Tablet no destaca en nada."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Un Altavoces promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Un Altavoces promedio, ni muy bueno ni muy malo. Incluía accesorios extra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Altavoces, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Un Impresora promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada. Incluía accesorios extra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Teclado no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Un Cámara promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana. Incluía accesorios extra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Un Altavoces promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartphone, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Un Impresora promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra. Incluía accesorios extra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Un Teclado promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Teclado no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Un Laptop promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Auriculares, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Altavoces, mala experiencia de compra."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana. Incluía accesorios extra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Altavoces no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Auriculares, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Impresora no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Impresora, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Un Teclado promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Smartwatch, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Un Auriculares promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartwatch, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear. Incluía accesorios extra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Tablet no destaca en nada. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Auriculares no destaca en nada. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Monitor, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Un Laptop promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Cámara, dejó de funcionar a la semana. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Impresora, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Tablet, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Monitor, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "neutral",
+    "reseña": "El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Cámara, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable. Incluía accesorios extra."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartphone, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartwatch, mala experiencia de compra."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Tablet, mala experiencia de compra."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartphone promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Impresora es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra. Me llegó con un rasguño."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Laptop, mala experiencia de compra."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Un Smartwatch promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Cámara, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Tablet es rápido y confiable."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartwatch no destaca en nada."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Laptop no destaca en nada."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Laptop, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Smartphone, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Teclado es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Altavoces es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Smartwatch, vale cada peso invertido."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Smartphone no destaca en nada."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Teclado no destaca en nada."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Altavoces, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Un Monitor promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Impresora, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Monitor no destaca en nada."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Teclado, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Monitor, vale cada peso invertido."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Smartphone, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "neutral",
+    "reseña": "Cumple su función básica, el Cámara no destaca en nada."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Teclado, vale cada peso invertido."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Tablet, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "neutral",
+    "reseña": "El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Laptop es rápido y confiable."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Cámara es rápido y confiable."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "neutral",
+    "reseña": "Un Impresora promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Laptop, vale cada peso invertido."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Auriculares, vale cada peso invertido. Incluía accesorios extra."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Monitor es rápido y confiable."
+  },
+  {
+    "producto": "Smartphone",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartphone es rápido y confiable."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "neutral",
+    "reseña": "Un Auriculares promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Auriculares es rápido y confiable."
+  },
+  {
+    "producto": "Monitor",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Monitor, mala experiencia de compra."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Cámara, mala experiencia de compra. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Teclado, dejó de funcionar a la semana. La entrega fue muy lenta."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "positivo",
+    "reseña": "El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Laptop",
+    "sentimiento": "negativo",
+    "reseña": "Muy decepcionado con el Laptop, dejó de funcionar a la semana."
+  },
+  {
+    "producto": "Impresora",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Impresora, vale cada peso invertido."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "neutral",
+    "reseña": "Un Tablet promedio, ni muy bueno ni muy malo."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Tablet",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Tablet, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía."
+  },
+  {
+    "producto": "Auriculares",
+    "sentimiento": "negativo",
+    "reseña": "No recomiendo este Auriculares, la calidad deja mucho que desear."
+  },
+  {
+    "producto": "Teclado",
+    "sentimiento": "negativo",
+    "reseña": "Problemas constantes con el Teclado, mala experiencia de compra."
+  },
+  {
+    "producto": "Smartwatch",
+    "sentimiento": "positivo",
+    "reseña": "Funciona de maravilla, el Smartwatch es rápido y confiable."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "Encantado con mi nuevo Altavoces, vale cada peso invertido."
+  },
+  {
+    "producto": "Altavoces",
+    "sentimiento": "positivo",
+    "reseña": "El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento."
+  },
+  {
+    "producto": "Cámara",
+    "sentimiento": "positivo",
+    "reseña": "El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento."
+  }
+]

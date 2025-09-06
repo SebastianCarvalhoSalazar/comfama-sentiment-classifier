@@ -1,0 +1,801 @@
+producto,sentimiento,reseña,reseña_limpia,sentimiento_numerico
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra.",funciona maravilla rápido confiable incluía accesorios extra,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,neutro,"Un Altavoces promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartphone,neutro,"El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,neutro,"Un Auriculares promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,negativo,"Problemas constantes con el Auriculares, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,negativo,"Problemas constantes con el Auriculares, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable. Me llegó con un rasguño.",funciona maravilla rápido confiable llegó rasguño,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"No recomiendo este Smartphone, la calidad deja mucho que desear. La entrega fue muy lenta.",recomiendo calidad deja desear entrega lenta,0
+Monitor,neutro,"El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,neutro,"Cumple su función básica, el Auriculares no destaca en nada.",cumple función básica destaca,1
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra.",funciona maravilla rápido confiable incluía accesorios extra,2
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada. Me llegó con un rasguño.",cumple función básica destaca llegó rasguño,1
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana. Tuvo que ser reemplazado por garantía.",decepcionado dejó funcionar semana ser reemplazado garantía,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada. Incluía accesorios extra.",cumple función básica destaca incluía accesorios extra,1
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,neutro,"El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,neutro,"Cumple su función básica, el Tablet no destaca en nada. La entrega fue muy lenta.",cumple función básica destaca entrega lenta,1
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana. Me llegó con un rasguño.",decepcionado dejó funcionar semana llegó rasguño,0
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,neutro,"Un Auriculares promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra. Tuvo que ser reemplazado por garantía.",problemas constantes mala experiencia compra ser reemplazado garantía,0
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable. Incluía accesorios extra.",funciona maravilla rápido confiable incluía accesorios extra,2
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,negativo,"No recomiendo este Smartwatch, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Impresora,neutro,"Un Impresora promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable. Tuvo que ser reemplazado por garantía.",funciona maravilla rápido confiable ser reemplazado garantía,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,neutro,"Un Altavoces promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,neutro,"El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada. La entrega fue muy lenta.",cumple función básica destaca entrega lenta,1
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,neutro,"Un Altavoces promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,negativo,"No recomiendo este Smartwatch, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo. Me llegó con un rasguño.",promedio bueno malo llegó rasguño,1
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable. Incluía accesorios extra.",funciona maravilla rápido confiable incluía accesorios extra,2
+Tablet,neutro,"Un Tablet promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Teclado,neutro,"Un Teclado promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Laptop,neutro,"El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,neutro,"El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,neutro,"El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente. Me llegó con un rasguño.",aceptable cumple prometido sobresaliente llegó rasguño,1
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente. Incluía accesorios extra.",aceptable cumple prometido sobresaliente incluía accesorios extra,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable. Me llegó con un rasguño.",funciona maravilla rápido confiable llegó rasguño,2
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,neutro,"Un Impresora promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana. La entrega fue muy lenta.",decepcionado dejó funcionar semana entrega lenta,0
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra.",superó expectativas excelente calidad buen rendimiento incluía accesorios extra,2
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable. La entrega fue muy lenta.",funciona maravilla rápido confiable entrega lenta,2
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,negativo,"Problemas constantes con el Auriculares, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,neutro,"El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,neutro,"Cumple su función básica, el Tablet no destaca en nada. Me llegó con un rasguño.",cumple función básica destaca llegó rasguño,1
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,neutro,"El Laptop es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra. Me llegó con un rasguño.",problemas constantes mala experiencia compra llegó rasguño,0
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,neutro,"Un Altavoces promedio, ni muy bueno ni muy malo. Incluía accesorios extra.",promedio bueno malo incluía accesorios extra,1
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,neutro,"Un Impresora promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,neutro,"El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable. Tuvo que ser reemplazado por garantía.",funciona maravilla rápido confiable ser reemplazado garantía,2
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear. Me llegó con un rasguño.",recomiendo calidad deja desear llegó rasguño,0
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido. Incluía accesorios extra.",encantado nuevo vale cada peso invertido incluía accesorios extra,2
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable. Me llegó con un rasguño.",funciona maravilla rápido confiable llegó rasguño,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra. Incluía accesorios extra.",problemas constantes mala experiencia compra incluía accesorios extra,0
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,negativo,"No recomiendo este Smartphone, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable. Tuvo que ser reemplazado por garantía.",funciona maravilla rápido confiable ser reemplazado garantía,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra. Me llegó con un rasguño.",problemas constantes mala experiencia compra llegó rasguño,0
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,neutro,"Un Tablet promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,neutro,"El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada. Me llegó con un rasguño.",cumple función básica destaca llegó rasguño,1
+Cámara,negativo,"No recomiendo este Cámara, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Teclado,neutro,"Cumple su función básica, el Teclado no destaca en nada.",cumple función básica destaca,1
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento. Tuvo que ser reemplazado por garantía.",superó expectativas excelente calidad buen rendimiento ser reemplazado garantía,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra.",superó expectativas excelente calidad buen rendimiento incluía accesorios extra,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido. La entrega fue muy lenta.",encantado nuevo vale cada peso invertido entrega lenta,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,negativo,"No recomiendo este Smartphone, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable. Me llegó con un rasguño.",funciona maravilla rápido confiable llegó rasguño,2
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra. Tuvo que ser reemplazado por garantía.",problemas constantes mala experiencia compra ser reemplazado garantía,0
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana. Incluía accesorios extra.",decepcionado dejó funcionar semana incluía accesorios extra,0
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra.",superó expectativas excelente calidad buen rendimiento incluía accesorios extra,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente. Tuvo que ser reemplazado por garantía.",aceptable cumple prometido sobresaliente ser reemplazado garantía,1
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,neutro,"Un Auriculares promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento. Incluía accesorios extra.",superó expectativas excelente calidad buen rendimiento incluía accesorios extra,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,neutro,"El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,neutro,"Un Monitor promedio, ni muy bueno ni muy malo. La entrega fue muy lenta.",promedio bueno malo entrega lenta,1
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido. Incluía accesorios extra.",encantado nuevo vale cada peso invertido incluía accesorios extra,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,neutro,"El Auriculares es aceptable, cumple con lo prometido pero nada sobresaliente. La entrega fue muy lenta.",aceptable cumple prometido sobresaliente entrega lenta,1
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra. Tuvo que ser reemplazado por garantía.",problemas constantes mala experiencia compra ser reemplazado garantía,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana. Me llegó con un rasguño.",decepcionado dejó funcionar semana llegó rasguño,0
+Smartphone,negativo,"No recomiendo este Smartphone, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable. Tuvo que ser reemplazado por garantía.",funciona maravilla rápido confiable ser reemplazado garantía,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido. Me llegó con un rasguño.",encantado nuevo vale cada peso invertido llegó rasguño,2
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,negativo,"No recomiendo este Cámara, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,neutro,"Un Tablet promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Monitor,neutro,"El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Tablet,neutro,"Cumple su función básica, el Tablet no destaca en nada.",cumple función básica destaca,1
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra. Tuvo que ser reemplazado por garantía.",problemas constantes mala experiencia compra ser reemplazado garantía,0
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Laptop,neutro,"Un Laptop promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido. Incluía accesorios extra.",encantado nuevo vale cada peso invertido incluía accesorios extra,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana. Incluía accesorios extra.",decepcionado dejó funcionar semana incluía accesorios extra,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra. Incluía accesorios extra.",problemas constantes mala experiencia compra incluía accesorios extra,0
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,negativo,"Problemas constantes con el Smartwatch, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana. La entrega fue muy lenta.",decepcionado dejó funcionar semana entrega lenta,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable. Incluía accesorios extra.",funciona maravilla rápido confiable incluía accesorios extra,2
+Teclado,neutro,"Cumple su función básica, el Teclado no destaca en nada.",cumple función básica destaca,1
+Auriculares,negativo,"Problemas constantes con el Auriculares, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"El Altavoces superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,neutro,"El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,negativo,"Problemas constantes con el Smartwatch, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,negativo,"No recomiendo este Cámara, la calidad deja mucho que desear. La entrega fue muy lenta.",recomiendo calidad deja desear entrega lenta,0
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,negativo,"Problemas constantes con el Smartwatch, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,negativo,"Problemas constantes con el Smartwatch, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,negativo,"No recomiendo este Impresora, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,neutro,"Un Laptop promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,neutro,"Un Teclado promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Tablet,positivo,"Encantado con mi nuevo Tablet, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,positivo,"Encantado con mi nuevo Laptop, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,neutro,"Un Teclado promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Monitor,neutro,"El Monitor es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana. Tuvo que ser reemplazado por garantía.",decepcionado dejó funcionar semana ser reemplazado garantía,0
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Impresora,negativo,"Problemas constantes con el Impresora, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,negativo,"Problemas constantes con el Altavoces, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear. Tuvo que ser reemplazado por garantía.",recomiendo calidad deja desear ser reemplazado garantía,0
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,neutro,"Cumple su función básica, el Smartwatch no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable. Tuvo que ser reemplazado por garantía.",funciona maravilla rápido confiable ser reemplazado garantía,2
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,neutro,"Un Smartwatch promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Muy decepcionado con el Smartphone, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada. Tuvo que ser reemplazado por garantía.",cumple función básica destaca ser reemplazado garantía,1
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,neutro,"El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido. Incluía accesorios extra.",encantado nuevo vale cada peso invertido incluía accesorios extra,2
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"El Impresora superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,neutro,"Cumple su función básica, el Auriculares no destaca en nada. La entrega fue muy lenta.",cumple función básica destaca entrega lenta,1
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,negativo,"Muy decepcionado con el Cámara, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo. La entrega fue muy lenta.",promedio bueno malo entrega lenta,1
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Auriculares,negativo,"Problemas constantes con el Auriculares, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Altavoces,negativo,"Muy decepcionado con el Altavoces, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,negativo,"No recomiendo este Altavoces, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,neutro,"Un Cámara promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Smartwatch,positivo,"Encantado con mi nuevo Smartwatch, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra. Tuvo que ser reemplazado por garantía.",problemas constantes mala experiencia compra ser reemplazado garantía,0
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,negativo,"No recomiendo este Cámara, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"Problemas constantes con el Monitor, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,neutro,"Cumple su función básica, el Teclado no destaca en nada.",cumple función básica destaca,1
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,neutro,"Un Teclado promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Laptop,neutro,"Un Laptop promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Auriculares,negativo,"Muy decepcionado con el Auriculares, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,negativo,"Muy decepcionado con el Monitor, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Tablet,positivo,"Funciona de maravilla, el Tablet es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,negativo,"Muy decepcionado con el Impresora, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido. La entrega fue muy lenta.",encantado nuevo vale cada peso invertido entrega lenta,2
+Laptop,negativo,"No recomiendo este Laptop, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,neutro,"Cumple su función básica, el Monitor no destaca en nada.",cumple función básica destaca,1
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Tablet,neutro,"El Tablet es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,positivo,"Encantado con mi nuevo Cámara, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana. La entrega fue muy lenta.",decepcionado dejó funcionar semana entrega lenta,0
+Teclado,positivo,"El Teclado superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,positivo,"Funciona de maravilla, el Impresora es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,negativo,"No recomiendo este Auriculares, la calidad deja mucho que desear. Incluía accesorios extra.",recomiendo calidad deja desear incluía accesorios extra,0
+Tablet,positivo,"El Tablet superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Monitor,positivo,"El Monitor superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,positivo,"Funciona de maravilla, el Smartphone es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,negativo,"Muy decepcionado con el Laptop, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Smartwatch,negativo,"Problemas constantes con el Smartwatch, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Altavoces,positivo,"Funciona de maravilla, el Altavoces es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,neutro,"El Teclado es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartwatch,negativo,"Muy decepcionado con el Smartwatch, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Cámara,negativo,"Problemas constantes con el Cámara, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"Muy decepcionado con el Teclado, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,positivo,"Funciona de maravilla, el Laptop es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,positivo,"Funciona de maravilla, el Monitor es rápido y confiable.",funciona maravilla rápido confiable,2
+Auriculares,positivo,"Encantado con mi nuevo Auriculares, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido. Incluía accesorios extra.",encantado nuevo vale cada peso invertido incluía accesorios extra,2
+Impresora,neutro,"Un Impresora promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Impresora,positivo,"Encantado con mi nuevo Impresora, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"No recomiendo este Tablet, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Smartwatch,positivo,"El Smartwatch superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Cámara,positivo,"Funciona de maravilla, el Cámara es rápido y confiable.",funciona maravilla rápido confiable,2
+Monitor,negativo,"No recomiendo este Monitor, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Monitor,positivo,"Encantado con mi nuevo Monitor, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Teclado,negativo,"No recomiendo este Teclado, la calidad deja mucho que desear.",recomiendo calidad deja desear,0
+Tablet,negativo,"Muy decepcionado con el Tablet, dejó de funcionar a la semana.",decepcionado dejó funcionar semana,0
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Cámara,neutro,"El Cámara es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Cámara,neutro,"Cumple su función básica, el Cámara no destaca en nada.",cumple función básica destaca,1
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Smartphone,neutro,"El Smartphone es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Smartphone,positivo,"El Smartphone superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartphone,neutro,"Un Smartphone promedio, ni muy bueno ni muy malo.",promedio bueno malo,1
+Tablet,neutro,"Cumple su función básica, el Tablet no destaca en nada.",cumple función básica destaca,1
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,positivo,"Encantado con mi nuevo Smartphone, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Altavoces,positivo,"Encantado con mi nuevo Altavoces, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Teclado,negativo,"Problemas constantes con el Teclado, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,neutro,"El Smartwatch es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,neutro,"El Altavoces es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Altavoces,neutro,"Cumple su función básica, el Altavoces no destaca en nada.",cumple función básica destaca,1
+Laptop,neutro,"Cumple su función básica, el Laptop no destaca en nada.",cumple función básica destaca,1
+Auriculares,positivo,"El Auriculares superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Laptop,negativo,"Problemas constantes con el Laptop, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Teclado,positivo,"Funciona de maravilla, el Teclado es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Auriculares,positivo,"Funciona de maravilla, el Auriculares es rápido y confiable.",funciona maravilla rápido confiable,2
+Laptop,positivo,"El Laptop superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Smartwatch,positivo,"Funciona de maravilla, el Smartwatch es rápido y confiable.",funciona maravilla rápido confiable,2
+Smartphone,neutro,"Cumple su función básica, el Smartphone no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Impresora,neutro,"El Impresora es aceptable, cumple con lo prometido pero nada sobresaliente.",aceptable cumple prometido sobresaliente,1
+Impresora,neutro,"Cumple su función básica, el Impresora no destaca en nada.",cumple función básica destaca,1
+Cámara,positivo,"El Cámara superó mis expectativas, excelente calidad y muy buen rendimiento.",superó expectativas excelente calidad buen rendimiento,2
+Teclado,positivo,"Encantado con mi nuevo Teclado, vale cada peso invertido.",encantado nuevo vale cada peso invertido,2
+Smartphone,negativo,"Problemas constantes con el Smartphone, mala experiencia de compra.",problemas constantes mala experiencia compra,0
+Tablet,negativo,"Problemas constantes con el Tablet, mala experiencia de compra.",problemas constantes mala experiencia compra,0

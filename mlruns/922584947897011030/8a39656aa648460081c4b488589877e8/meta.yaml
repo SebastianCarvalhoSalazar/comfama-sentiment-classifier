@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/8a39656aa648460081c4b488589877e8/artifacts
+end_time: 1757177549886
+entry_point_name: ''
+experiment_id: '922584947897011030'
+lifecycle_stage: active
+run_id: 8a39656aa648460081c4b488589877e8
+run_name: random_forest_20250906_115225
+run_uuid: 8a39656aa648460081c4b488589877e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757177545158
+status: 3
+tags: []
+user_id: sebatiancarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/1bff8027565342529255d3adaa73f4cc/artifacts
+end_time: 1757178003249
+entry_point_name: ''
+experiment_id: '922584947897011030'
+lifecycle_stage: active
+run_id: 1bff8027565342529255d3adaa73f4cc
+run_name: logistic_regression_20250906_115951
+run_uuid: 1bff8027565342529255d3adaa73f4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757177991448
+status: 3
+tags: []
+user_id: sebatiancarvalho

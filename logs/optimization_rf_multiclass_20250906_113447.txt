@@ -1,0 +1,94 @@
+Optimization started at 2025-09-06 11:34:47.181888
+============================================================
+
+--- Iteration 1/1 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 39, 'classifier__max_features': None, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 14, 'classifier__n_estimators': 24, 'tfidf__max_df': 0.8052794004697432, 'tfidf__max_features': 87, 'tfidf__min_df': 2}
+Current CV score: 0.754603
+Best score so far: 0.754603
+
+--- Iteration 2/2 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 45, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 10, 'classifier__min_samples_split': 18, 'classifier__n_estimators': 8, 'tfidf__max_df': 0.7414925614835726, 'tfidf__max_features': 68, 'tfidf__min_df': 4}
+Current CV score: 0.168889
+Best score so far: 0.754603
+
+--- Iteration 3/3 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 47, 'classifier__max_features': 'sqrt', 'classifier__min_samples_leaf': 5, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 25, 'tfidf__max_df': 0.7466344162151629, 'tfidf__max_features': 88, 'tfidf__min_df': 3}
+Current CV score: 0.520635
+Best score so far: 0.754603
+
+--- Iteration 4/4 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 17, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 8, 'classifier__min_samples_split': 11, 'classifier__n_estimators': 9, 'tfidf__max_df': 0.9267401598507645, 'tfidf__max_features': 94, 'tfidf__min_df': 5}
+Current CV score: 0.248209
+Best score so far: 0.754603
+
+--- Iteration 5/5 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 28, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 7, 'classifier__min_samples_split': 18, 'classifier__n_estimators': 37, 'tfidf__max_df': 0.8272534217382046, 'tfidf__max_features': 83, 'tfidf__min_df': 2}
+Current CV score: 0.208889
+Best score so far: 0.754603
+
+--- Iteration 6/6 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 48, 'classifier__max_features': 'sqrt', 'classifier__min_samples_leaf': 3, 'classifier__min_samples_split': 16, 'classifier__n_estimators': 22, 'tfidf__max_df': 0.8377073542452417, 'tfidf__max_features': 77, 'tfidf__min_df': 4}
+Current CV score: 0.785215
+Best score so far: 0.785215
+
+--- Iteration 7/7 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 41, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 9, 'classifier__min_samples_split': 13, 'classifier__n_estimators': 32, 'tfidf__max_df': 0.8946332529111177, 'tfidf__max_features': 71, 'tfidf__min_df': 4}
+Current CV score: 0.259410
+Best score so far: 0.785215
+
+--- Iteration 8/8 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 47, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 9, 'classifier__min_samples_split': 8, 'classifier__n_estimators': 7, 'tfidf__max_df': 0.8712333408036694, 'tfidf__max_features': 51, 'tfidf__min_df': 3}
+Current CV score: 0.145533
+Best score so far: 0.785215
+
+--- Iteration 9/9 ---
+Timestamp: 11:34:47
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 38, 'classifier__max_features': None, 'classifier__min_samples_leaf': 5, 'classifier__min_samples_split': 9, 'classifier__n_estimators': 15, 'tfidf__max_df': 0.700018315225802, 'tfidf__max_features': 69, 'tfidf__min_df': 3}
+Current CV score: 0.690794
+Best score so far: 0.785215
+
+--- Iteration 10/10 ---
+Timestamp: 11:34:48
+Current params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 43, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 3, 'classifier__min_samples_split': 12, 'classifier__n_estimators': 17, 'tfidf__max_df': 0.7938517918703885, 'tfidf__max_features': 58, 'tfidf__min_df': 5}
+Current CV score: 0.760317
+Best score so far: 0.785215
+
+--- Iteration 11/11 ---
+Timestamp: 11:34:49
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 16, 'classifier__max_features': None, 'classifier__min_samples_leaf': 3, 'classifier__min_samples_split': 20, 'classifier__n_estimators': 21, 'tfidf__max_df': 0.9551377260527598, 'tfidf__max_features': 100, 'tfidf__min_df': 1}
+Current CV score: 0.413129
+Best score so far: 0.785215
+
+--- Iteration 12/12 ---
+Timestamp: 11:34:50
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 50, 'classifier__max_features': None, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 18, 'classifier__n_estimators': 48, 'tfidf__max_df': 0.8764407651442006, 'tfidf__max_features': 100, 'tfidf__min_df': 1}
+Current CV score: 0.650930
+Best score so far: 0.785215
+
+--- Iteration 13/13 ---
+Timestamp: 11:34:51
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 47, 'classifier__max_features': 'sqrt', 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 19, 'classifier__n_estimators': 47, 'tfidf__max_df': 0.9971261609759234, 'tfidf__max_features': 90, 'tfidf__min_df': 5}
+Current CV score: 0.262540
+Best score so far: 0.785215
+
+--- Iteration 14/14 ---
+Timestamp: 11:34:51
+Current params: {'classifier__class_weight': None, 'classifier__max_depth': 31, 'classifier__max_features': None, 'classifier__min_samples_leaf': 3, 'classifier__min_samples_split': 20, 'classifier__n_estimators': 20, 'tfidf__max_df': 0.7465931235136066, 'tfidf__max_features': 100, 'tfidf__min_df': 1}
+Current CV score: 0.413129
+Best score so far: 0.785215
+
+--- Iteration 15/15 ---
+Timestamp: 11:34:52
+Current params: {'classifier__class_weight': 'balanced_subsample', 'classifier__max_depth': 29, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 6, 'tfidf__max_df': 0.7072009068141609, 'tfidf__max_features': 85, 'tfidf__min_df': 1}
+Current CV score: 0.780635
+Best score so far: 0.785215
+
+Optimization completed at 2025-09-06 11:34:52.956284

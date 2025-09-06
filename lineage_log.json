@@ -1,0 +1,854 @@
+[
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de datos",
+    "input_assets": [
+      "JSON de rese\u00f1as de productos"
+    ],
+    "output_assets": [
+      "DataFrame limpio y preprocesado"
+    ],
+    "params": {}
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de datos",
+    "input_assets": [
+      "JSON de rese\u00f1as de productos"
+    ],
+    "output_assets": [
+      "DataFrame limpio y preprocesado"
+    ],
+    "params": {}
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Limpieza y preparaci\u00f3n de texto",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/df_limpio.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test LR",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_lr.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test RF",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_rf.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos entrenamiento XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/train_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  },
+  {
+    "process_name": "Preparaci\u00f3n de datos test XGB",
+    "input_assets": [
+      "rese\u00f1as_productos_sintetico.json"
+    ],
+    "output_assets": [
+      "data/test_clean_xgb.csv"
+    ],
+    "params": {
+      "drop_duplicates": true,
+      "clean_text_applied": true
+    }
+  }
+]

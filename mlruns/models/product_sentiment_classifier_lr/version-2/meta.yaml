@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1757174061107
+current_stage: None
+description: null
+last_updated_timestamp: 1757174061107
+name: product_sentiment_classifier_lr
+run_id: 76c18f724e8549cd86a76cf9363f16af
+run_link: null
+source: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/76c18f724e8549cd86a76cf9363f16af/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

@@ -1,0 +1,56 @@
+# version: '3.8'
+
+services:
+  # MLflow Server
+  mlflow:
+    image: python:3.9-slim
+    container_name: mlflow_server
+    working_dir: /app
+    volumes:
+      - ./models:/app/models
+      - ./mlruns:/app/mlruns
+      - ./mlflow.db:/app/mlflow.db
+    ports:
+      - "5000:5000"
+    command: >
+      bash -c "pip install mlflow==2.7.1 && 
+              mlflow server --host 0.0.0.0 --port 5000 
+              --backend-store-uri sqlite:///app/mlflow.db 
+              --default-artifact-root file:///app/models"           
+    healthcheck:
+      disable: true
+
+  # FastAPI Application
+  api:
+    build: .
+    container_name: sentiment_api
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+      - ./src:/app/src
+      - ./app:/app/app
+    ports:
+      - "8000:8000"
+    command: python app/api.py
+    healthcheck:
+      disable: true
+
+  # Streamlit UI
+  streamlit:
+    build: .
+    container_name: sentiment_ui
+    environment:
+      - API_URL=http://api:8000
+    volumes:
+      - ./app:/app/app
+    ports:
+      - "8501:8501"
+    command: streamlit run app/streamlit_app.py --server.address 0.0.0.0
+
+networks:
+  default:
+    name: sentiment_network

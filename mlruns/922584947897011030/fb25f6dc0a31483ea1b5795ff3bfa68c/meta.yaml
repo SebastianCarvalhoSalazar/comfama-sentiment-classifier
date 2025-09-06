@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/fb25f6dc0a31483ea1b5795ff3bfa68c/artifacts
+end_time: 1757177554917
+entry_point_name: ''
+experiment_id: '922584947897011030'
+lifecycle_stage: active
+run_id: fb25f6dc0a31483ea1b5795ff3bfa68c
+run_name: xgboost_20250906_115229
+run_uuid: fb25f6dc0a31483ea1b5795ff3bfa68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757177549895
+status: 3
+tags: []
+user_id: sebatiancarvalho

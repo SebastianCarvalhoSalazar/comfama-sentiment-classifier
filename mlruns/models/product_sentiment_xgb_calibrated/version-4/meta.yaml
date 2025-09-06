@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1757175029127
+current_stage: None
+description: null
+last_updated_timestamp: 1757175029127
+name: product_sentiment_xgb_calibrated
+run_id: ab807599a8bc4eedb86a7bb8d6fcd084
+run_link: null
+source: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/ab807599a8bc4eedb86a7bb8d6fcd084/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 4

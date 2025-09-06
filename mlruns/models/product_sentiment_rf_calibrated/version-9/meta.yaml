@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1757176373256
+current_stage: None
+description: null
+last_updated_timestamp: 1757176373256
+name: product_sentiment_rf_calibrated
+run_id: 8a9d35216299481288d94238f90f2afc
+run_link: null
+source: file:///Users/sebatiancarvalho/Desktop/Repositorios/SCSProjects/Comfama/mlruns/922584947897011030/8a9d35216299481288d94238f90f2afc/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 9

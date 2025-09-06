@@ -1,0 +1,94 @@
+Optimization started at 2025-09-06 11:34:52.981005
+============================================================
+
+--- Iteration 1/1 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.7640415835413256, 'classifier__gamma': 3.6386287158866253, 'classifier__learning_rate': 0.012506560815837911, 'classifier__max_depth': 4, 'classifier__n_estimators': 35, 'classifier__reg_alpha': 4.141186324855385, 'classifier__reg_lambda': 4.158382014092297, 'classifier__subsample': 0.8958016936761681, 'tfidf__max_df': 0.7913389933109518, 'tfidf__max_features': 82, 'tfidf__min_df': 3}
+Current CV score: 0.194921
+Best score so far: 0.194921
+
+--- Iteration 2/2 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.9349553422213137, 'classifier__gamma': 4.416576386904311, 'classifier__learning_rate': 0.0022742488205020474, 'classifier__max_depth': 6, 'classifier__n_estimators': 44, 'classifier__reg_alpha': 0.6231294084407147, 'classifier__reg_lambda': 2.2447768445071765, 'classifier__subsample': 0.7414349590513672, 'tfidf__max_df': 0.8907187305637511, 'tfidf__max_features': 98, 'tfidf__min_df': 4}
+Current CV score: 0.168889
+Best score so far: 0.194921
+
+--- Iteration 3/3 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.7779330049204607, 'classifier__gamma': 4.593612608346885, 'classifier__learning_rate': 0.0013283849292355248, 'classifier__max_depth': 4, 'classifier__n_estimators': 13, 'classifier__reg_alpha': 4.53665343806299, 'classifier__reg_lambda': 2.3990324864548898, 'classifier__subsample': 0.9006210125361986, 'tfidf__max_df': 0.8672021269101404, 'tfidf__max_features': 99, 'tfidf__min_df': 4}
+Current CV score: 0.194921
+Best score so far: 0.194921
+
+--- Iteration 4/4 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.9249583953429453, 'classifier__gamma': 0.8593578069828035, 'classifier__learning_rate': 0.005050774048767965, 'classifier__max_depth': 5, 'classifier__n_estimators': 29, 'classifier__reg_alpha': 0.9545503921499345, 'classifier__reg_lambda': 7.802204795522934, 'classifier__subsample': 0.9490521413239769, 'tfidf__max_df': 0.9735786584520651, 'tfidf__max_features': 69, 'tfidf__min_df': 2}
+Current CV score: 0.756190
+Best score so far: 0.756190
+
+--- Iteration 5/5 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.9198213766428692, 'classifier__gamma': 2.190145932204617, 'classifier__learning_rate': 0.004162492439872814, 'classifier__max_depth': 5, 'classifier__n_estimators': 46, 'classifier__reg_alpha': 7.17031151159837, 'classifier__reg_lambda': 4.817602652146139, 'classifier__subsample': 0.860113640699105, 'tfidf__max_df': 0.8059251536583913, 'tfidf__max_features': 83, 'tfidf__min_df': 3}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 6/6 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.8936112071942273, 'classifier__gamma': 4.6968486880138585, 'classifier__learning_rate': 0.0015574602551854785, 'classifier__max_depth': 4, 'classifier__n_estimators': 41, 'classifier__reg_alpha': 3.7257977798325785, 'classifier__reg_lambda': 5.131220627357251, 'classifier__subsample': 0.8139060640484542, 'tfidf__max_df': 0.9355851811427487, 'tfidf__max_features': 78, 'tfidf__min_df': 3}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 7/7 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.8468317434009265, 'classifier__gamma': 3.876821894139413, 'classifier__learning_rate': 0.002643892129646163, 'classifier__max_depth': 6, 'classifier__n_estimators': 32, 'classifier__reg_alpha': 5.946200350868384, 'classifier__reg_lambda': 6.838997587333532, 'classifier__subsample': 0.768833034380279, 'tfidf__max_df': 0.9201647455806418, 'tfidf__max_features': 82, 'tfidf__min_df': 5}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 8/8 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.817361227076125, 'classifier__gamma': 4.600046132186582, 'classifier__learning_rate': 0.0038361020370177652, 'classifier__max_depth': 6, 'classifier__n_estimators': 20, 'classifier__reg_alpha': 0.5113455367705179, 'classifier__reg_lambda': 6.137000224110084, 'classifier__subsample': 0.6103204340214085, 'tfidf__max_df': 0.8157188772953994, 'tfidf__max_features': 91, 'tfidf__min_df': 2}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 9/9 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.9821911945239713, 'classifier__gamma': 3.50310722310683, 'classifier__learning_rate': 0.010596006450381761, 'classifier__max_depth': 4, 'classifier__n_estimators': 22, 'classifier__reg_alpha': 2.1141428727419624, 'classifier__reg_lambda': 1.0005494567740614, 'classifier__subsample': 0.7482741950650817, 'tfidf__max_df': 0.8783136740774157, 'tfidf__max_features': 59, 'tfidf__min_df': 4}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 10/10 ---
+Timestamp: 11:34:53
+Current params: {'classifier__colsample_bytree': 0.6014521229018973, 'classifier__gamma': 4.089150098318758, 'classifier__learning_rate': 0.007444167835651698, 'classifier__max_depth': 4, 'classifier__n_estimators': 31, 'classifier__reg_alpha': 2.7471484883541746, 'classifier__reg_lambda': 3.8155537561116533, 'classifier__subsample': 0.6610378347353777, 'tfidf__max_df': 0.9681514183157558, 'tfidf__max_features': 91, 'tfidf__min_df': 4}
+Current CV score: 0.168889
+Best score so far: 0.756190
+
+--- Iteration 11/11 ---
+Timestamp: 11:34:54
+Current params: {'classifier__colsample_bytree': 1.0, 'classifier__gamma': 0.0, 'classifier__learning_rate': 0.0019993382739578298, 'classifier__max_depth': 6, 'classifier__n_estimators': 5, 'classifier__reg_alpha': 10.0, 'classifier__reg_lambda': 9.481702896961718, 'classifier__subsample': 0.6, 'tfidf__max_df': 0.9018509622051895, 'tfidf__max_features': 50, 'tfidf__min_df': 5}
+Current CV score: 0.194921
+Best score so far: 0.756190
+
+--- Iteration 12/12 ---
+Timestamp: 11:34:55
+Current params: {'classifier__colsample_bytree': 0.6, 'classifier__gamma': 0.0, 'classifier__learning_rate': 0.014999999999999996, 'classifier__max_depth': 6, 'classifier__n_estimators': 5, 'classifier__reg_alpha': 0.0, 'classifier__reg_lambda': 10.0, 'classifier__subsample': 0.76755982269918, 'tfidf__max_df': 0.9616957649865544, 'tfidf__max_features': 50, 'tfidf__min_df': 1}
+Current CV score: 0.748662
+Best score so far: 0.756190
+
+--- Iteration 13/13 ---
+Timestamp: 11:34:55
+Current params: {'classifier__colsample_bytree': 0.6, 'classifier__gamma': 0.6510758912777892, 'classifier__learning_rate': 0.001, 'classifier__max_depth': 3, 'classifier__n_estimators': 50, 'classifier__reg_alpha': 0.0, 'classifier__reg_lambda': 1.0, 'classifier__subsample': 0.6, 'tfidf__max_df': 0.7, 'tfidf__max_features': 100, 'tfidf__min_df': 5}
+Current CV score: 0.825397
+Best score so far: 0.825397
+
+--- Iteration 14/14 ---
+Timestamp: 11:34:56
+Current params: {'classifier__colsample_bytree': 0.6024804529200776, 'classifier__gamma': 0.7612676869231201, 'classifier__learning_rate': 0.014999999999999996, 'classifier__max_depth': 3, 'classifier__n_estimators': 21, 'classifier__reg_alpha': 0.0, 'classifier__reg_lambda': 6.968745481407634, 'classifier__subsample': 0.6, 'tfidf__max_df': 0.8475318999553604, 'tfidf__max_features': 100, 'tfidf__min_df': 1}
+Current CV score: 0.786032
+Best score so far: 0.825397
+
+--- Iteration 15/15 ---
+Timestamp: 11:34:57
+Current params: {'classifier__colsample_bytree': 1.0, 'classifier__gamma': 0.4919175412996246, 'classifier__learning_rate': 0.011890234052566435, 'classifier__max_depth': 4, 'classifier__n_estimators': 9, 'classifier__reg_alpha': 0.0, 'classifier__reg_lambda': 10.0, 'classifier__subsample': 1.0, 'tfidf__max_df': 1.0, 'tfidf__max_features': 50, 'tfidf__min_df': 5}
+Current CV score: 0.825397
+Best score so far: 0.825397
+
+Optimization completed at 2025-09-06 11:34:57.752661
